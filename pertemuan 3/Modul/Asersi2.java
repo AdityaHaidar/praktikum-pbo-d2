@@ -1,3 +1,6 @@
+// File        : Asersi2.java          06/03/24
+// Penulis     : Aditya Haidar Faishal
+// Deskripsi   : Membuat class Asersi2 dan lingkaran
 class Lingkaran{
     private double jariJari;
     public Lingkaran(double jariJari){

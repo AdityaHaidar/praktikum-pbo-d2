@@ -1,3 +1,7 @@
+// File        : Asersi1.java          06/03/24
+// Penulis     : Aditya Haidar Faishal
+// Deskripsi   : Membuat class Asersi
+
 public class Asersi1 {
     public static void main(String[] args) {
         int x=0;

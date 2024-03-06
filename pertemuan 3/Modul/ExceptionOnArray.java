@@ -1,3 +1,6 @@
+// File        : ExceptionOnarray.java          06/03/24
+// Penulis     : Aditya Haidar Faishal
+// Deskripsi   : Membuat class ExceptonOnArray
 public class ExceptionOnArray {
     public static void main(String[] args) {
         Integer[] arryIntegers = new Integer[4];

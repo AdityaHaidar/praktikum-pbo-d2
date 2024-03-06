@@ -1,3 +1,7 @@
+// File        : AngkaSial.java          06/03/24
+// Penulis     : Aditya Haidar Faishal
+// Deskripsi   : Membuat class AngkaSial
+
 public class AngkaSial {
     public void cobaAngka(int angka) throws AngkaSialException{
         if (angka==13){
